@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of InfoHub",
+  "description": "A simple and functional web app that brings together Weather Information, Currency Conversion (INR to USD/EUR), and a Motivational Quote Generator into one place.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
